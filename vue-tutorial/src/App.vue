@@ -7,7 +7,7 @@
           <div class="container">
             <div class="navbar-brand">
               <a class="navbar-item">
-                VueJs Tutorial 1.0
+                ToDo List
               </a>
             </div>
           </div>
@@ -29,13 +29,6 @@
 
       <!-- Hero footer: will stick at the bottom -->
       <div class="hero-foot">
-        <div class="container">
-          <div class="content has-text-centered">
-            <p>
-              <strong>VueJS Tutorial</strong> by <a href="http://github.com/kessiacastro">Késsia Castro</a>.
-            </p>
-          </div>
-        </div>
       </div>
     </section>
   </div>
